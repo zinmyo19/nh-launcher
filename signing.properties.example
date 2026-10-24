@@ -1,0 +1,5 @@
+# Copy to signing.properties (git-ignored) or point NH_SIGNING_PROPS at your own file.
+storeFile=/path/to/your.jks
+storePassword=change-me
+keyAlias=your-alias
+keyPassword=change-me

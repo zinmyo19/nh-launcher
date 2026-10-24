@@ -1,0 +1,27 @@
+NH Launcher
+Copyright (C) 2026 Zyne (zinmyo19)
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version. It is distributed WITHOUT ANY WARRANTY. See the LICENSE file.
+
+Independence / trademarks
+-------------------------
+NH Launcher is an independent, community project. It is NOT affiliated with,
+endorsed by, or sponsored by OffSec Services Limited, the Kali Linux project or
+the Kali NetHunter project. "Kali", "Kali Linux", "NetHunter", "Kali NetHunter"
+and the dragon logo are trademarks or property of their respective owners and
+are used here only to describe the style/purpose of the launcher. No Kali or
+NetHunter logos, wallpapers or artwork are included in this repository or in its
+release binaries.
+
+Third-party components
+----------------------
+- DejaVu Sans Mono (res/font/dejavu_sans_mono*.ttf) - Bitstream Vera / DejaVu
+  Fonts licence (free to use, modify and redistribute; the font name rules in
+  that licence apply to modified versions). https://dejavu-fonts.github.io/License.html
+- AndroidX Core, Activity, Jetpack Compose (UI, Graphics, Foundation) -
+  Apache License 2.0, Copyright The Android Open Source Project.
+  https://www.apache.org/licenses/LICENSE-2.0
+- Gradle wrapper (gradle/wrapper/gradle-wrapper.jar) - Apache License 2.0.

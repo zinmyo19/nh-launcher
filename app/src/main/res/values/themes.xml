@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.NHLauncher" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/nh_bg</item>
+        <item name="android:colorBackground">@color/nh_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:textColor">#D3E4EC</item>
+        <item name="android:colorAccent">#367BF0</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

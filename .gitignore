@@ -1,0 +1,13 @@
+# build output
+build/
+.gradle/
+*.apk
+*.aab
+# local / secret files - never commit
+local.properties
+signing.properties
+*.jks
+*.keystore
+*.p12
+.idea/
+*.iml
